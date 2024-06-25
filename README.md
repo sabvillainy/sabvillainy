@@ -6,7 +6,7 @@
 - 📀 Avid collector of vinyl records, CDs, and cassette tapes.
 - 🎮 Video game nerd always on the lookout for the latest releases and trends.
 - 🚀 I want to learn and implement complex data structures and algorithms.
-- 🎯 My biggest goal on my developer career is working for Valve.
+- 🎯 My biggest dream on my developer career is working for Valve.
 
 <!---
 sabvillainy/sabvillainy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
