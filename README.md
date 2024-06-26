@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @sabvillainy.
 - 👀 I’m interested in software development, game design and AI technologies.
-- 👨‍💻 I’m familiar with Java, C#, SQL, HTML and CSS.
+- 👨‍💻 I’m familiar with Java, C#, SQL, HTML, CSS and PHP.
 - 🌱 I’m currently learning the Spring Framework and JavaScript.
 - 🎸 I play electric guitar, bass guitar, and drums as part of my university's professional music band.
 - 📀 I’m an avid collector of vinyl records, CDs, and cassette tapes in many music genres.
